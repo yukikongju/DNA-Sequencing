@@ -6,4 +6,3 @@ def longuestCommonPrefix(s1, s2):
         i += 1
     return s1[:i]
 
-
